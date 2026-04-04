@@ -15,7 +15,7 @@ export GTK_DIR=gtk-3.0
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
-quick-sharun /PATH/TO/BINARY_AND_LIBRARIES_HERE /usr/share/abaddon
+quick-sharun /usr/bin/abaddon /usr/share/abaddon
 
 # Additional changes can be done in between here
 
